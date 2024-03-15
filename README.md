@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 👨‍💻 All of my projects aAre available at [https://portfolio-gu7xpqz2x-farouks-projects-34d7f5e3.vercel.app/](https://portfolio-gu7xpqz2x-farouks-projects-34d7f5e3.vercel.app/)
+- 👨‍💻 All of my projects aAre available at [https://portfolio-gu7xpqz2x-farouks-projects-34d7f5e3.vercel.app/]([https://portfolio-gu7xpqz2x-farouks-projects-34d7f5e3.vercel.app/](https://portfolio-2x1csyqak-farouks-projects-34d7f5e3.vercel.app/))
 
 - 💬 Ask me about **Mern stack technologies and MySQL**
 
